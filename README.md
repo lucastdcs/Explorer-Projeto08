@@ -6,11 +6,18 @@ Este é o projeto 08 do Explorer, curso da Rocketseat 😄
 Ao construir esta aplicação, aprendi e revisei os seguintes pontos:
 
 
-- Estrutura incial HTML
-- Estrutura inicial CSS
-- Utilização de fontes personalizadas
-- Posicionamento de elementos (Box Model)
-- Flexbox
+- tabelas no HTML
+- screen reader only
+- imutabilidade
+- assincronismo
+- filter()
+- localStorage()
+- API
+- fecth()
+- polimorfismo
+- desestruturação no JS
+- Async functions
+- try, catch e throw
 
 
 
